@@ -7,81 +7,76 @@
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html 
 
 # Description
-_PDF GENERATOR FOR WP LETS YOU CREATE PDF OF RELEVANT PAGES, PRODUCTS, AND POSTS FOR BETTER DISPERSAL OF BRAND INFORMATION. _
+_PDF GENERATOR FOR WORDPRESS LETS YOU CREATE PDF OF RELEVANT PAGES, PRODUCTS, AND POSTS FOR BETTER DISPERSAL OF BRAND INFORMATION. _
 
 **[PDF Generator for WordPress Plugin](https://wordpress.org/plugins/pdf-generator-for-wp/)** provides the key support in portfolio building depending on your industry type. The PDF plugin for WordPress allows you to create PDF files for the pages to ensure the availability of information offline. It allows the admin to convert all the posts, pages, blogs, and products on their website into PDF files. 
 Users can download these PDF files or view them in a new tab. Also, the admin can authorize users to receive their PDFs on their email addresses. The WordPress PDF creator makes sharing information seamless across different channels. You can predefine the settings to customize the header, the body, and the footer.
 Users can non-commercially distribute the downloaded PDF files. The admin can customize the pdf template to align with their brand. So, the distribution of PDFs provides an opportunity for brand promotion.
 
-## With the PDF Generator for Wp plugin, you can:
+## With the PDF Generator for WordPress plugin, you can:
 
-- Provide WooCommerce subscription free of cost on products 
-- Generate trouble-free recurring revenue with recurring payments from users
-- Sell subscription-based products and recurring services for a set period
-- Convert simple product selling eCommerce  store into a fully functional WooCommerce subscription-based store 
-- Give free trials of subscription-based products and services to your customers and loyalize them  
-- Limit the free trial and set frequency for it
-- Charge initial fees on subscription-based products and services
-- Cancel WooCommerce subscriptions anytime
-- Full control of subscriptions management   
+- Convert all the posts, pages, blogs, and products into PDF files.
+- Display icon to both guest users and registered users.
+- Allow direct download of pdf files or send them to users’ email addresses. 
+- Get a Shortcode to add the PDF icon anywhere on the page.
+- Get a shortcode to insert your own pdf.
+- Set the PDF download button’s location. 
+- Set a custom PDF download icon.
+- Predefine header, footer, and body settings.
+- Include author details. 
 
 ### PLUGIN MEETS YOUR REQUIREMENT, SO 
-[**Download Now !!**](https://downloads.wordpress.org/plugin/pdf-generator-for-wordpress.zip) 
+[**Download Now !!**](https://downloads.wordpress.org/plugin/pdf-generator-for-wp.zip) 
 
-Visit [**Subscriptions For WooCommerce Documentation**](https://docs.makewebbetter.com/subscriptions-for-woocommerce/?utm_source=MWB-subscriptions-github&utm_medium=MWB-github-page&utm_campaign=MWB-subscriptions)
+Visit [**PDF Generator for WordPress Documentation**](http://docs.makewebbetter.com/pdf-generator-for-wp/?utm_source=MWB-PDF-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-doc) and learn more about the features and working of the plugin.
 
-## SALIENT FEATURES OF FREE SUBSCRIPTIONS FOR WOOCOMMERCE PLUGIN
+## WHAT’S INCLUDED IN OUR PDF GENERATOR FOR WORDPRESS PLUGIN
 
-### 1) Create Products  As Subscription Product With Subscriptions for WooCommerce
-You can assign a subscription product label to simple products by simply ticking a checkbox. The selected product will then be available as a WooCommerce subscription simple product. No particular subscription-type product will be made here.
+### 1) INCLUDE IMPORTANT DETAILS
+The General Settings in the PDF plugin allows you to include important information in the generated PDF files. The plugin lets you display the categories, tags, taxonomy, post date, and author name. 
 
-### 2) Offer Subscription Frequency for Subscription-based products
-You can set the recurring frequency options for subscribed products for the user. Regulating the WooCommerce recurring payments of these subscription-based products or services monthly, weekly, or yearly is also a feature for the admin. Admin can manage the frequency of free trials as well.
+### 2) CONTROL THE DISPLAY OF FUNCTIONALITY
+From the display settings of the PDF icon, you can choose to display the PDF generator icon to either the registered users or the guest users or both. You can also opt to allow, both, the registered and guest users to either directly download the information in PDF format or e-mail the PDF file to the user.
 
-### 3) Subscription Plan Expiry Choice
-You can set the expiration date of the WooCommerce subscription plans. The subscription of the product will last till the expiration period. And, the recurring payments will be made according to the WooCommerce subscription frequency plan. The subscription plan can be renewed for extending the subscription.
+### 3) ICON SETTINGS
+WordPress PDF Generator gives you a freehand to customize the plugin icon for the front end of your website. You can also set the size of the PDF generator icon as per the design and theme requirements of the WordPress site. Display settings in the plugin allow several positions to place the icon, also letting you set the alignment of the same to center, right, and left.
 
-### 4) Charge Initial Fee on Subscription-based Products with WooCommerce Payment Integrations
-If you want to charge extra payment in the form of an initial sign-up fee, you can do that too. The free subscriptions for the WooCommerce plugin support Stripe payment integration of WooCommerce. This integration works seamlessly together.
+### 4) PREDEFINE HEADER SETTINGS
+The layout settings authorize you to tailor-make the header settings. You can upload the company logo and details besides setting the header width. Layout settings also allow you to set the font and font size. 
 
-### 5) Offer Free Trial To WooCommerce Subscription Users
-You can provide free trials to subscription users. Admin can also set the free trial frequency. Urge them to sign up by offering them a free trial of subscription-based products or services. Recurring Payments can be done by the user after the free trial is over, and the WooCommerce subscription plan can later be continued. 
+### 5) PREDEFINE BODY SETTINGS
+Body settings have many features to let you set the page orientation, page size, and title settings. You can also predefine the content font settings, font color, page margin, and border settings. This plugin also provides RTL support for Hebrew and Arabic languages. You can add a watermark to represent your brand in the layout settings.
 
-### 6) Both User and Admin Can Stop WooCommerce Subscription Option
-There is a flexibility of ending the subscription by the admin or the user anytime. Both can stop subscriptions of products or services in easy steps. Thus, also halting future recurring payments.
+### 6) PREDEFINE FOOTER SETTINGS
+You can set the size and width of the footer using the layout settings. It also allows you to set the footer text font and size as well. 
 
-### 7) Complete WooCommerce Subscription Reports for Admin
-With a clean WooCommerce subscription plan report module, you will get complete WooCommerce subscription plan data of all users. Find essential details like active and inactive WooCommerce subscriptions, following recurring payment dates, subscription-based product names, WooCommerce subscription expiry dates, and the individual plans' due date.
+### 7) RELEVANT POST TYPES AND APPROPRIATE METAFIELDS
+The plugin gives you the option to make the post visible only for relevant post types such as post, page, or product, depending on the utility of your content. The admin is also authorized to set the metafields that you wish to display in the posts, pages or products, individually.
 
-### 8) Cancel WooCommerce Subscription Plan Anytime via User or Admin
-With the free Subscriptions for WooCommerce plugin, both users and admin can cancel the WooCommerce subscription plans anytime. This way, subscription management becomes flexible enough. 
+### 8) UPLOAD YOUR PDF FILES
+The plugin allows you to upload your own PDF files for download. You can also limit access to these files for registered users or guest users.
 
+[**Free demo of PDF Generator for WordPress**](https://demo.makewebbetter.com/pdf-generator-for-wp/?utm_source=MWB-PDF-git&utm_medium=MWB-git-Page&utm_campaign=MWB-frontend_demo)
 
- [**Free demo of Subscriptions for WooCommerce**](https://demo.makewebbetter.com/subscriptions-for-woocommerce/?utm_source=MWB-subscriptions-github&utm_medium=MWB-github-Page&utm_campaign=MWB-free_demo)
+## WHAT PREMIUM VERSION OF WORDPRESS PDF GENERATOR PLUGIN OFFERS
 
-**Visit [**Subscriptions For Woocommerce Documentation**](http://docs.makewebbetter.com/subscriptions-for-woocommerce/?utm_source=MWB-subscriptions-github&utm_medium=MWB-github-Page&utm_campaign=MWB-doc) and learn more about the features and working of the plugin.**
+- Upload TTF font.
+- Allow admin to rename metafields while listing in PDF.
+- Allow admin to choose taxonomy just like meta fields and rename keys.
+- Customization of header and footer from the editor.
+- Set content alignment position left or right.
+- Detailed Logging of PDFs generated.
+- Download PDF from the server or generate it every time.
+- Bulk download or email in continuation or in a zip folder.
 
-## PREMIUM FEATURES OF SUBSCRIPTIONS FOR WOOCOMMERCE (COMING SOON)
-
-- Create WooCommerce Variable Subscription Product Type and Configure More WooCommerce Subscription Services
-- Variations On Subscription-Based Product Plans and WooCommerce Upgrade Subscriptions or Downgrade Plans
-- Designation of WooCommerce Subscriptions Start Date and Expiration Date By User or Admin.
-- Automatic Retrying For Failed Payments and Automated WooCommerce Subscriptions Cancellation          
-- Create Exclusive Coupon Types With Subscriptions for WooCommerce.  
-- Ability To Handle WooCommerce Subscriptions Proration    
-- Pause Subscription Plans through Subscriptions for WooCommerce 
-- WooCommerce Subscription Emails, Notifications and Reminders for Every Subscription Related Action
-- Monthly Recurring Payments of Daily Products and Manual Payment Option for WooCommerce Subscriptions
-- API of Course For Details On Mobile App
-- Active WooCommerce Subscription Export Function
-- WooCommerce PayPal Payment Gateway Support
+### Make a smart move with Premium Version of [WordPress PDF Generator](https://makewebbetter.com/product/wordpress-pdf-generator/?utm_source=MWB-PDF-git&utm_medium=MWB-git-Page&utm_campaign=MWB-PDF-pro)
 
 ## SUPPORT
-If you need support or have any question then kindly use our online chat window [here](https://makewebbetter.com/?utm_source=MWB-subscriptions-github&utm_medium=MWB-github-page&utm_campaign=MWB-subscriptions-org) or  connect with us then or  connect with us then [**Generate a Ticket**](https://makewebbetter.com/submit-query/?utm_source=MWB-subscriptions-github&utm_medium=MWB-githubo-page&utm_campaign=MWB-subscriptions-org)
+If you need support or have any question then kindly use our online chat window [here](https://makewebbetter.com/?utm_source=MWB-PDF-git&utm_medium=MWB-git-page&utm_campaign=MWB-PDF-git) or  connect with us then [**Generate a Ticket**](https://makewebbetter.com/submit-query/)
 
 ### **MORE ABOUT MAKEWEBBETTER**
 
-- [**Our Official Website**](https://makewebbetter.com/?utm_source=MWB-subscriptions-git&utm_medium=MWB-git&utm_campaign=git)
+- [**Our Official Website**](https://makewebbetter.com/?utm_source=MWB-pdf-git&utm_medium=MWB-git&utm_campaign=git)
 - [**Follow us on Facebook Page**](https://www.facebook.com/makewebbetter)
 - [**Tweet us on @MakeWebBetter**](https://twitter.com/makewebbetter)
 - [**Visit our LinkedIn Account**](https://www.linkedin.com/company/makewebbetter)
