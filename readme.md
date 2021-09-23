@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://travis-ci.org/twbs/bootstrap) ![Active installs](https://img.shields.io/badge/Active-10%2B-brightgreen) ![License](https://img.shields.io/badge/License-GPLv3%20or%20later-yellowgreen) ![WP tested](https://img.shields.io/badge/WP%20tested-5.7-brightgreen) ![WC tested](https://img.shields.io/badge/WC%20tested-5.1-brightgreen) ![Requires PHP](https://img.shields.io/badge/Requires%20PHP-7.3.5-blue)
+[![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://travis-ci.org/twbs/bootstrap) ![Active installs](https://img.shields.io/badge/Active-40%2B-brightgreen) ![License](https://img.shields.io/badge/License-GPLv3%20or%20later-yellowgreen) ![WP tested](https://img.shields.io/badge/WP%20tested-5.8.1-brightgreen) ![WC tested](https://img.shields.io/badge/WC%20tested-5.6.0-brightgreen) ![Requires PHP](https://img.shields.io/badge/Requires%20PHP-7.3.5-blue)
 # PDF Generator for WordPress
 ![PDF Generator for WordPress](https://ps.w.org/pdf-generator-for-wp/assets/banner-772x250.png?rev=2537763)
 * Contributors: MakeWebBetter
@@ -7,7 +7,7 @@
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html 
 
 # Description
-_PDF GENERATOR FOR WORDPRESS LETS YOU CREATE PDF OF RELEVANT PAGES, PRODUCTS, AND POSTS FOR BETTER DISPERSAL OF BRAND INFORMATION. _
+_PDF GENERATOR FOR WORDPRESS PLUGIN LETS YOU CREATE PDF OF PAGES, PRODUCTS, AND POSTS FOR BETTER DISPERSAL OF BRAND INFORMATION WITH WPML COMPATIBILITY. YOU CAN MAKE OR CREATE PDF EASILY FOR YOUR WEBSITES. _
 
 **[PDF Generator for WordPress Plugin](https://wordpress.org/plugins/pdf-generator-for-wp/)** provides the key support in portfolio building depending on your industry type. The PDF plugin for WordPress allows you to create PDF files for the pages to ensure the availability of information offline. It allows the admin to convert all the posts, pages, blogs, and products on their website into PDF files. 
 Users can download these PDF files or view them in a new tab. Also, the admin can authorize users to receive their PDFs on their email addresses. The WordPress PDF creator makes sharing information seamless across different channels. You can predefine the settings to customize the header, the body, and the footer.
@@ -24,6 +24,7 @@ Users can non-commercially distribute the downloaded PDF files. The admin can cu
 - Set a custom PDF download icon.
 - Predefine header, footer, and body settings.
 - Include author details. 
+- Compatible with WPML, thus, facilitating your multi-lingual audience.
 
 ### PLUGIN MEETS YOUR REQUIREMENT, SO 
 [**Download Now !!**](https://downloads.wordpress.org/plugin/pdf-generator-for-wp.zip) 
@@ -73,6 +74,8 @@ The plugin allows you to upload your own PDF files for download. You can also li
 
 ## SUPPORT
 If you need support or have any question then kindly use our online chat window [here](https://makewebbetter.com/?utm_source=MWB-PDF-git&utm_medium=MWB-git-page&utm_campaign=MWB-PDF-git) or  connect with us then [**Generate a Ticket**](https://makewebbetter.com/submit-query/)
+
+If our documentation doesn’t contain the solution to your problem, you can visit the [**MakeWebBetter Forums**](https://forums.makewebbetter.com/?utm_source=MWB-pdf-git&utm_medium=MWB-git-page&utm_campaign=MWB-pdf-git) with your question.
 
 ### **MORE ABOUT MAKEWEBBETTER**
 
